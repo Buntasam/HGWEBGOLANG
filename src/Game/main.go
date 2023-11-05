@@ -3,10 +3,10 @@ package main
 import (
 	"net/http"
 	"html/template"
-	"goquery"
+	//"goquery"
 )
 
-const hangmanImage = goquery(".hangman-box img")
+//const hangmanImage = goquery(".hangman-box img")
 //const wordDisplay = document.querySelector(".word-display")
 //const guessesText = document.querySelector(".guesses-text b")
 //const keyboardDiv = document.querySelector(".keyboard")
